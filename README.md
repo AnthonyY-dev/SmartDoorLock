@@ -51,4 +51,4 @@ git clone https://github.com/AnthonyY-dev/SmartDoorLock.git
 ```
 
 ## Watch youtube video
-- Here is the (youtube video)[https://youtu.be/9Cadp6dBYJY] I made on it: https://youtu.be/9Cadp6dBYJY
+- Here is the [youtube video](https://youtu.be/9Cadp6dBYJY) I made on it: https://youtu.be/9Cadp6dBYJY
